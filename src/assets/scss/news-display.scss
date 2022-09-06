@@ -1,8 +1,7 @@
 @import "_variable.scss";
 .newsCarousel {
   margin-bottom: 50px;
-  border-bottom: #DCC69D solid 8px;
-
+  border-bottom: #dcc69d solid 8px;
 }
 
 .titleLink {
@@ -23,5 +22,5 @@
 }
 
 .newsImg:hover {
-  opacity: 70%;
+  opacity: 0.8;
 }
